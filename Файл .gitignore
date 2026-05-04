@@ -20,5 +20,6 @@ build/
 Thumbs.db
 
 # Project specific
-favorites.json
+config.json
+history.json
 *.pyc
